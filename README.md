@@ -1,7 +1,3 @@
-
-
-
-## 
 <h3 align="center">
     <img 
          src="https://github.com/kokbee/kokbee.github.io/blob/main/assets/img/Kokbee.png" 
@@ -18,12 +14,11 @@
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </p>
 <p align="center">
-    백엔드만 아니라 프론트 엔드, 장비에도 관심이 많은 생각 많은 개발자입니다. :)
+    백엔드만 아니라 프론트 엔드, 장비에도 관심이 많은 생각 많은 개발자입니다. 😄
 </p>
 
-
 ##
-<h3 align="center"><b> 기술 (Stack)</b></h3>
+<h3 align="center"><b>🛠 기술 (Stack)</b></h3>
 </br>
 <p align="center">
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a> &nbsp
@@ -40,11 +35,11 @@
 
 
 ##
-<h3 align="center"><b>포트폴리오 및 블로그</b></h3>
+<h3 align="center"><b>🌱 포트폴리오 & 블로그 (Portfolio&Blog) </b></h3>
 <p align="center">
 <a href="https://kokbee.github.io/">
     <img src="https://img.shields.io/badge/Portfolio (Firebase)-FFCA28?style=flat-square&logo=Firebase&logoColor=white"/>
-</a>
+</a>&nbsp
 <a href="_target">
     <img src="https://img.shields.io/badge/Notion (Blog)-000000?style=flat-square&logo=Notion&logoColor=white"/>
 </a>
