@@ -2,11 +2,14 @@
 
 
 ## 
-<h3 align="center"><b> 김민수 (kokbee)</b></h3>
-<p align="center">
+<h3 align="center">
     <img 
          src="https://github.com/kokbee/kokbee.github.io/blob/main/assets/img/Kokbee.png" 
          width="25px" height="20px" style="margin-left : 10px; margin-right : 10px;"/>
+    <b> 김민수 (kokbee)</b> 
+</h3>
+</br>
+<p align="center">
     <img 
         src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkokbee"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
@@ -20,7 +23,7 @@
 
 
 ##
-<h3 align="center"><b>기술 (Stack)</b></h3>
+<h3 align="center"><b> 기술 (Stack)</b></h3>
 </br>
 <p align="center">
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a> &nbsp
@@ -37,8 +40,12 @@
 
 
 ##
+<h3 align="center"><b>포트폴리오 및 블로그</b></h3>
 <p align="center">
+<a href="https://kokbee.github.io/">
+    <img src="https://img.shields.io/badge/Portfolio (Firebase)-FFCA28?style=flat-square&logo=Firebase&logoColor=white"/>
+</a>
 <a href="_target">
-    <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Notion (Blog)-000000?style=flat-square&logo=Notion&logoColor=white"/>
 </a>
 </p>
