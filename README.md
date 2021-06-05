@@ -40,7 +40,7 @@
 <a href="https://kokbee.github.io/">
     <img src="https://img.shields.io/badge/Portfolio (Firebase)-FFCA28?style=flat-square&logo=Firebase&logoColor=white"/>
 </a>&nbsp
-<a href="_target">
-    <img src="https://img.shields.io/badge/Notion (Blog)-000000?style=flat-square&logo=Notion&logoColor=white"/>
+<a href="https://www.notion.so/Hivebin-3f7f92558c9343c986fe21138cb050ef">
+    <img src="https://img.shields.io/badge/Notion (Blog 준비중입니다!)-000000?style=flat-square&logo=Notion&logoColor=white"/>
 </a>
 </p>
