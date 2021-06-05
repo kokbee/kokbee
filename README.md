@@ -1,4 +1,9 @@
-<div>
+
+
+
+## 
+<h3 align="center"><b> 김민수 (kokbee)</b></h3>
+<p align="center">
     <img 
          src="https://github.com/kokbee/kokbee.github.io/blob/main/assets/img/Kokbee.png" 
          width="25px" height="20px" style="margin-left : 10px; margin-right : 10px;"/>
@@ -8,14 +13,11 @@
     <img 
         src="https://img.shields.io/github/followers/kokbee?label=kokbee%20Followers&style=social"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</div>
-
-
-## 
-<h3 align="center"><b> 김민수 (kokbee)</b></h3>
+</p>
 <p align="center">
     백엔드만 아니라 프론트 엔드, 장비에도 관심이 많은 생각 많은 개발자입니다. :)
 </p>
+
 
 ##
 <h3 align="center"><b>🛠 Tech Stack</b></h3>
