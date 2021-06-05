@@ -14,7 +14,7 @@
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </p>
 <p align="center">
-    백엔드만 아니라 프론트 엔드, 장비에도 관심이 많은 생각 많은 개발자입니다. 😄
+    백엔드만, 프론트 엔드, 장비에 관심이 많은 개발자입니다. 😄
 </p>
 
 ##
