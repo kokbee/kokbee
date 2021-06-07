@@ -4,7 +4,15 @@
          width="25px" height="20px" style="margin-left : 10px; margin-right : 10px;"/>
     <b> 김민수 (kokbee)</b> 
 </h3>
-</br>
+<p align="center">
+    백엔드, 프론트 엔드, 장비에 관심이 많은 개발자입니다. 😄
+</p>
+<br />
+<p align='center'>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=kokbee&bg_color=15,FC7A00,FCE100&title_color=fff&text_color=fff"/>
+  </a>
+</p>
 <p align="center">
     <img 
         src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkokbee"
@@ -13,9 +21,7 @@
         src="https://img.shields.io/github/followers/kokbee?label=kokbee%20Followers&style=social"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </p>
-<p align="center">
-    백엔드, 프론트 엔드, 장비에 관심이 많은 개발자입니다. 😄
-</p>
+
 
 ##
 <h3 align="center"><b>🛠 기술 (Stack)</b></h3>
