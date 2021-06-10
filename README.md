@@ -10,7 +10,7 @@
 <br />
 <p align='center'>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=kokbee&bg_color=15,FC7A00,FCE100&title_color=fff&text_color=fff"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=kokbee&bg_color=15,FC7A00,FCE100&title_color=fff&text_color=fff&locale=kr&custom_title=김민수(kokbee)의%20Github%20통계"/>
   </a>
 </p>
 <p align="center">
