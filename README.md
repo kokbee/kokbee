@@ -44,7 +44,7 @@
 <h3 align="center"><b>🌱 블로그 (Blog) </b></h3>
 <p align="center">
 <a href="https://kokbee.github.io/">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=Noun+Project&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Github.io-000000?style=flat-square&logo=Noun+Project&logoColor=white"/>
 </a>&nbsp
 <a href="https://www.notion.so/Hivebin-3f7f92558c9343c986fe21138cb050ef">
     <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
