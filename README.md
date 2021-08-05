@@ -1,6 +1,6 @@
 <h3 align="center">
     <img 
-         src="https://github.com/kokbee/kokbee.github.io/blob/main/assets/img/Kokbee.png" 
+         src="https://github.com/kokbee/kokbee.github.io/blob/dev/themes-bak/images/Kokbee.png" 
          width="25px" height="20px" style="margin-left : 10px; margin-right : 10px;"/>
     <b> 김민수 (kokbee)</b> 
 </h3>
@@ -41,7 +41,7 @@
 
 
 ##
-<h3 align="center"><b>🌱 포트폴리오 & 블로그 (Portfolio&Blog) </b></h3>
+<h3 align="center"><b>🌱 블로그 (Blog) </b></h3>
 <p align="center">
 <a href="https://kokbee.github.io/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=Noun+Project&logoColor=white"/>
