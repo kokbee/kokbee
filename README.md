@@ -1,6 +1,6 @@
 <h3><b>🌱&nbsp Profile </b></h3>
 
-Hi there! Welcom my profile :)
+Hi there! Welcom to my profile :)
 <p>
 <a href="https://github.com/anuraghazra/github-readme-stats">
 <img style="width:250px;" src="https://github-readme-stats.vercel.app/api?username=kokbee&bg_color=15,FC7A00,FCE100&title_color=fff&text_color=fff&count_private=true&locale=kr&custom_title=김민수(kokbee)의%20Github%20통계"/>
