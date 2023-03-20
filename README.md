@@ -6,7 +6,7 @@ Hi there! Welcom to my profile :)
 <img style="width:250px;" src="https://github-readme-stats.vercel.app/api?username=kokbee&bg_color=15,FC7A00,FCE100&title_color=fff&text_color=fff&count_private=true&locale=kr&custom_title=김민수(kokbee)의%20Github%20통계"/>
 </a>
 <br />
-<a href="https://kokbee.github.io/">
+<a href="https://kokbee.tistory.com/">
     <img src="https://img.shields.io/badge/Blog-0E83CD?style=flat-square&logo=Hexo&logoColor=white"/>
 </a>
 <a href="https://www.notion.so/Hivebin-3f7f92558c9343c986fe21138cb050ef">
