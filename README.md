@@ -2,8 +2,8 @@
 
 <p align="left">
   <samp>
-    I'm kokbee, a Backend/Devops engineer.<br>
-    백엔드/데브옵스 엔지니어 김민수(kokbee)입니다.<br>
+    I'm kokbee, a Backend engineer.<br>
+    백엔드 엔지니어 김민수(kokbee)입니다.<br>
     You can find my work and writing below.<br>
     아래 링크에서 GitHub와 블로그를 확인하실 수 있습니다.
   </samp>
